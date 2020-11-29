@@ -7,6 +7,7 @@ The game implements basic code tests using the Jest framework and new objects ar
 
 ## Usage
 From the command line, run
+
     node app.js
   
 ## Contributing
